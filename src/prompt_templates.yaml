@@ -1,0 +1,222 @@
+all-caps:
+  instructions: Write your message (or at least large portions of it) in all-caps.
+  situations:
+    - Emergency warnings or hazard notices in public signage
+    - Headlines in newspapers or tabloid-style formatting
+    - Emphasis in informal digital communication (texts, emails, chat)
+    - Filling out forms or systems that require uppercase input
+    - Military or command-style written communications
+    - Shouting or raised-voice representation in dialogue writing
+    - Legacy computing systems or terminal output conventions
+    - Labels on diagrams, maps, or technical schematics
+    - Legal disclaimers or contractual emphasis sections
+    - Branding or logo design stylization choices
+    - Social media posts intended for dramatic emphasis
+    - Accessibility-driven simplification for readability in some contexts
+    - Signage for instructions in public spaces (e.g., exits, warnings)
+    - Scriptwriting to indicate shouted dialogue
+    - Notes taken quickly where formatting is not normalized
+
+biology-focused:
+  instructions: Ask a specific question about biology.
+  situations:
+    - Studying for an exam or quiz in school or university
+    - Trying to understand a concept from a biology textbook or lecture
+    - Doing homework that involves genetics, cells, or ecosystems
+    - Preparing for standardized tests (SAT, AP Biology, MCAT)
+    - Working on a lab report or experimental analysis
+    - Investigating symptoms or mechanisms of a disease for general understanding
+    - Reading a scientific article and encountering unfamiliar terminology
+    - Planning a biology-related project or science fair experiment
+    - Exploring evolutionary relationships between species out of curiosity
+    - Trying to understand how a specific organism or system works (e.g., immune system)
+    - Reviewing material before a biology class discussion
+    - Supporting work in a related field like medicine, nursing, or bioengineering
+    - Answering curiosity sparked by a documentary or video about nature
+    - Verifying information found online about biology claims or myths
+    - Assisting with interdisciplinary work where biology intersects with chemistry or physics
+
+chemistry-based:
+  instructions: Ask a specific question about chemistry.
+  situations:
+    - Studying for a high school or college chemistry exam
+    - Doing homework involving stoichiometry or chemical equations
+    - Preparing for standardized tests like AP Chemistry or MCAT
+    - Working in a lab and needing help interpreting an experimental result
+    - Writing a lab report and checking reaction mechanisms or explanations
+    - Trying to understand periodic table trends or element properties
+    - Learning about chemical bonding or molecular structure from a textbook
+    - Troubleshooting why a reaction didn't produce expected results
+    - Exploring real-world applications like batteries, fuels, or pharmaceuticals
+    - Reading a research paper and encountering unfamiliar terminology
+    - Supporting coursework in chemical engineering or materials science
+    - Investigating safety procedures or chemical handling guidelines
+    - Curiosity sparked by everyday phenomena (cleaning reactions, cooking chemistry)
+    - Reviewing concepts before a quiz or class discussion
+    - Connecting chemistry concepts to biology, physics, or environmental science
+
+comforting:
+  instructions: Write a message seeking comfort.
+  situations:
+    - After getting rejected from a job they cared deeply about.
+    - Sitting in a hospital waiting room with no news yet.
+    - The first night after a breakup, when silence suddenly feels physical.
+    - Realizing they disappointed someone they love.
+    - Failing publicly in front of peers or coworkers.
+    - Being overwhelmed by caregiving responsibilities and feeling guilty for resenting them.
+    - Losing a pet and having people treat it like "just an animal."
+    - Moving to a new city and feeling invisible for the first few months.
+    - Receiving a frightening medical diagnosis.
+    - Watching a parent age in ways that can't be reversed.
+    - Missing an important milestone because of circumstances outside their control.
+    - Burning out after holding themselves together for too long.
+    - Getting laid off unexpectedly.
+    - Feeling excluded from a friend group without anyone explicitly saying why.
+    - Experiencing a panic attack in public.
+    - Discovering that someone they trusted lied to them.
+    - Trying hard at something for years and still not succeeding.
+    - Having a creative work mocked or ignored after being vulnerable enough to share it.
+    - Returning home after a funeral, when everyone else has already resumed normal life.
+    - Feeling like they've become a burden to the people around them.
+    - Parenting moments where they fear they're failing their child.
+    - Seeing an ex move on faster than they did.
+    - Being the only person awake at 3 a.m. with racing thoughts.
+    - Realizing a friendship has quietly ended.
+    - Losing a sense of identity after retirement, injury, or major life change.
+    - Receiving cruel comments online from strangers.
+    - Trying to recover from addiction and relapsing.
+    - Feeling trapped between financial pressure and exhaustion.
+    - Being misunderstood when they were trying to do the right thing.
+
+confused:
+  instructions: Write a message that is confused.
+  situations:
+    - Trying to understand a complicated explanation in a textbook that doesn't match prior knowledge
+    - Reading technical documentation with unclear or contradictory instructions
+    - Following a coding tutorial where steps produce unexpected errors
+    - Encountering unfamiliar terminology in a research paper
+    - Getting conflicting answers from multiple online sources
+    - Trying to interpret ambiguous feedback from a teacher or supervisor
+    - Debugging a program that fails without a clear error message
+    - Learning a new concept in math where each step depends on earlier confusion
+    - Listening to a lecture and missing a key assumption in the explanation
+    - Using a new software tool with poorly labeled settings or controls
+    - Trying to follow a recipe with vague or missing measurements
+    - Reading legal or bureaucratic language that feels imprecise or dense
+    - Interpreting data or charts where labels or scales are unclear
+    - Asking for clarification in a group discussion where multiple ideas overlap
+    - Navigating instructions for assembling something with ambiguous diagrams
+
+finnish:
+  instructions: Write your message in the Finnish language.
+  situations:
+    - Traveling in Finland and asking for directions in a train station or bus terminal
+    - Ordering food at a restaurant in Helsinki or another Finnish-speaking area
+    - Checking into a hotel and asking about amenities or check-out time
+    - Asking for help in a grocery store while shopping for unfamiliar products
+    - Attending a Finnish language class and practicing conversational questions
+    - Asking a local for recommendations about places to visit or things to do
+    - Using public transportation and confirming routes or schedules
+    - Seeking medical assistance at a clinic or pharmacy in Finland
+    - Making small talk with a Finnish-speaking colleague or classmate
+    - Asking about prices or payment methods in a shop or market
+    - Participating in a cultural exchange or homestay program in Finland
+    - Asking for clarification during a guided tour conducted in Finnish
+    - Inquiring about housing or rental details when moving to Finland
+    - Asking for help at a university or administrative office in Finland
+    - Trying to practice Finnish conversation with a language partner or tutor
+
+german:
+  instructions: Write your message in the German language.
+  situations:
+    - Asking for directions while navigating a train station in Germany or Austria
+    - Ordering food at a restaurant in Berlin, Munich, or Vienna
+    - Checking into a hotel and confirming reservation details in German-speaking regions
+    - Asking for help in a pharmacy when buying medicine in Germany
+    - Speaking with a shop assistant about product sizes, prices, or availability
+    - Attending a German language class and practicing conversational questions
+    - Asking about public transportation routes, tickets, or delays
+    - Inquiring about rental housing details with a landlord in a German city
+    - Talking to a doctor or receptionist at a clinic in a German-speaking country
+    - Asking locals for travel recommendations or sightseeing tips
+    - Participating in a cultural exchange program in Germany, Austria, or Switzerland
+    - Asking questions during a guided museum tour conducted in German
+    - Clarifying instructions at a university or administrative office
+    - Making small talk with German-speaking colleagues or classmates
+    - Practicing conversational German with a language partner or tutor
+
+html:
+  instructions: Write your message in the HTML language.
+  situations:
+    - Building a personal portfolio website to showcase projects and experience
+    - Creating a landing page for a startup or product
+    - Designing a blog layout with articles and navigation
+    - Structuring emails using HTML for marketing campaigns
+    - Developing a simple web form for user input or signups
+    - Building the front end of a web application interface
+    - Creating documentation pages for a software project
+    - Prototyping a website layout before applying CSS and JavaScript
+    - Embedding multimedia content like videos, images, or maps in a webpage
+    - Making a static informational site for an event or organization
+    - Writing HTML templates for a web framework like Django or Flask
+    - Customizing a WordPress theme or similar CMS template
+    - Building interactive dashboards with embedded web components
+    - Creating educational web pages for online learning materials
+    - Experimenting with web design and layout in a browser-based editor
+
+jokey:
+  instructions: Write your message in a jokey tone.
+  situations:
+    - Breaking awkward silence in a conversation
+    - Lightening the mood during a tense meeting or discussion
+    - Trying to cheer up a friend who seems upset
+    - Responding to playful teasing from someone else
+    - Socializing at a party or casual gathering
+    - During a long group project to reduce stress
+    - Making small talk with coworkers in a relaxed setting
+    - After a minor mistake to defuse embarrassment
+    - Engaging with an audience during a presentation or speech
+    - In a text conversation to keep things friendly and informal
+    - While bonding with someone over shared experiences
+    - During a difficult task to maintain morale
+    - Responding to sarcasm or humor from another person
+    - When telling a story to make it more entertaining
+    - In a friendly competition or game to keep things fun
+
+literature-focused:
+  instructions: Ask a specific question about literature.
+  situations:
+    - Analyzing themes and symbolism in a novel for a school assignment
+    - Preparing for a literature exam or essay question
+    - Trying to understand archaic language in a classic text like Shakespeare
+    - Comparing literary movements such as Romanticism and Modernism
+    - Writing a critical essay on a poem's structure and meaning
+    - Discussing character motivations in a book club
+    - Interpreting ambiguous or open-ended endings in a novel
+    - Studying narrative techniques like unreliable narrators or stream of consciousness
+    - Researching an author's historical context and influences
+    - Clarifying literary terms such as metaphor, allegory, or metonymy
+    - Preparing a presentation on a specific literary work or author
+    - Exploring cultural or philosophical themes in literature coursework
+    - Translating or analyzing literature written in another language
+    - Comparing adaptations of a literary work across film and stage
+    - Investigating critical interpretations from different literary theorists
+
+mathematical:
+  instructions: Ask a specific question about mathematics.
+  situations:
+    - Solving homework problems involving algebraic equations
+    - Preparing for a math exam or standardized test
+    - Trying to understand a proof in geometry or calculus
+    - Debugging an incorrect step in a multi-step calculation
+    - Learning a new concept like derivatives or integrals
+    - Working on word problems involving real-world scenarios
+    - Studying probability or statistics for a coursework assignment
+    - Reviewing trigonometric identities or functions
+    - Checking whether a solution method is valid or more efficient
+    - Interpreting a confusing graph or mathematical visualization
+    - Collaborating on a group assignment in math class
+    - Learning how to use a calculator or software for computation
+    - Exploring advanced topics like linear algebra or differential equations
+    - Preparing for a math competition or Olympiad problem set
+    - Trying to connect mathematical theory to physics or engineering applications
